@@ -1,0 +1,7 @@
+E:\Trabajos\SCIO\Patrones de Diseño\CompositePractice\Composite\bin\Debug\Composite.exe.config
+E:\Trabajos\SCIO\Patrones de Diseño\CompositePractice\Composite\bin\Debug\Composite.exe
+E:\Trabajos\SCIO\Patrones de Diseño\CompositePractice\Composite\bin\Debug\Composite.pdb
+E:\Trabajos\SCIO\Patrones de Diseño\CompositePractice\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+E:\Trabajos\SCIO\Patrones de Diseño\CompositePractice\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+E:\Trabajos\SCIO\Patrones de Diseño\CompositePractice\Composite\obj\Debug\Composite.exe
+E:\Trabajos\SCIO\Patrones de Diseño\CompositePractice\Composite\obj\Debug\Composite.pdb
